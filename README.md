@@ -60,7 +60,7 @@ rate.
 
 II] Cost and Billing is not an important factor influencing churn behaviour.
 
-# ------------------------------ Cost -------------------------------
+ ------------------------------ Cost -------------------------------
    TOTMRC_MEAN	 : Monthly Recurring Charge / base cost of the calling 
                   plan regardless of actual minutes used.
 
@@ -142,11 +142,11 @@ To suppprot the claim :
 V]  There is less overage revenue obtained.Hence, number of customers having overage charges are less, i.e. the overage usage is less.
 In this case, rate plan migration cannot be used as a proactive retention strategy.
 
-                           Revenue
- Probability Churn Score High  Low Medium
-                 High    1177  902   1808
-                 Low     1112 3090   2536
-                 Medium  1596 3777   3424
+----------------------- |   Revenue
+Probability Churn Score |  High  Low Medium
+                 High   | 1177  902   1808
+                 Low    | 1112 3090   2536
+                 Medium | 1596 3777   3424
 
 There are 1112 customers with low churn rate and giving higher revenue.
 
