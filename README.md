@@ -143,7 +143,7 @@ To suppprot the claim :
 V]  There is less overage revenue obtained.Hence, number of customers having overage charges are less, i.e. the overage usage is less.
 In this case, rate plan migration cannot be used as a proactive retention strategy.
 
------------------------ |   Revenue
+------------------------- |   Revenue
 
 Probability Churn Score |  High  Low Medium
 
